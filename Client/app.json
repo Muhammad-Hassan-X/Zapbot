@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Zapbot",
-    "slug": "Zapbot",
+    "slug": "Zapbot is crypto trading bot",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
